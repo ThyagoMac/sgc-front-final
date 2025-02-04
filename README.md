@@ -53,6 +53,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### `yarn add axios`
 
-### `yarn create react-app . --template typescript`
+### `yarn add react-bootstrap bootstrap`
 
-### `yarn create react-app . --template typescript`
+### `yarn add eslint prettier eslint-config-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y eslint-plugin-import --save-dev`
+
+### ``
+
+### ``
+
+### ``
+
+### ``
