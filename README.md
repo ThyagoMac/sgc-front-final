@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Used Commands
+
+### (npm 11.1.0 node 22.13.1 yarn 1.22.22 nvm 0.40.1)
+
+### `yarn create react-app . --template typescript`
+
+### `yarn add axios`
+
+### `yarn create react-app . --template typescript`
+
+### `yarn create react-app . --template typescript`
